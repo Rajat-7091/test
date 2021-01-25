@@ -1,0 +1,29 @@
+body{
+    margin: 40px 20px 20px 40px;
+    background-color:rgb(158 200 214);
+    background-image: url(R2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+h1{
+    color: darkred;
+}
+div{
+    color: rgb(88, 15, 15);
+    
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+}
+h3{
+     color: rgb(255, 51, 0);
+     
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: large;
+    font-weight: bold;
+}
